@@ -303,7 +303,7 @@ ul.callbacks_tabs.callbacks1_tabs {
 	margin:2em 0 1em 0;
 }
 .w3l-welcome_pic h3{
-	color:#717070;
+	color:#f6cc4c;
     font-size: 18px;
     font-weight: 500;
     margin-bottom: 15px;
@@ -747,7 +747,7 @@ a.w3_agile_vimeo:hover{
 	text-transform:uppercase;
 }
 .tittle-w3 span{
-	color:#212121;
+	color:#00bcd4;
 }
 .sub-head{
 	font-size:1.5em!important;
@@ -857,7 +857,7 @@ a.w3_agile_vimeo:hover{
 .mail-grid1-form {
    background: #fff;
     padding: 2em;
-    width: 35%;
+    width: 100%;
 }
 .map iframe {
     width: 100%;
